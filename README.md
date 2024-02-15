@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **yashgawhale004@gmail.com**
 
-- ⚡ Fun fact **Enthusiastic about Japanese animation and sports like football and swimming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
