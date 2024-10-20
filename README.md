@@ -8,7 +8,7 @@ CSE(AIML) 3rd-year student passionate about data analytics and machine learning.
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **ML, Data Analysis,**
-- 
+
 - 📫 How to reach me **yashgawhale004@gmail.com**
 
 
