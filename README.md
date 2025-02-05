@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Gawhale</h1>
 <h3 align="center">CSE(AIML) 3rd-year student passionate about data analytics and machine learning. 🚀 Exploring the intersections of data and AI to create impactful machine learning solutions. Check out my repositories for projects, code snippets, and the journey of mastering the art of developing intelligent and efficient machine learning models.</h3>
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/aaSPJ0P3HkGd6Z2kpFOwX7wI325Qldpv2wDjjNqq710/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vR2ZTWC11N1ZH/TTRBQUFBQy9jb2Rp/bmcuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashcodes04&label=Profile%20views&color=0e75b6&style=flat" alt="yashcodes04" /> </p>
 
