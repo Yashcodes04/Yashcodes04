@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gawhale</h1>
-<h3 align="center">I'm a passionate Computer Science student with hands-on experience in Machine Learning, Data Science, and Full Stack Web Development. I work with tools and technologies like Python, TensorFlow, PyTorch, Docker, Kubernetes, AWS, and the MERN stack to build scalable and intelligent systems. I enjoy solving real-world problems using data and deploying solutions using modern DevOps practices.
+<h3 align="center">I'm a passionate Computer Science student with hands-on experience in Machine Learning, Data Science, and Full Stack Web Development. I work with tools and technologies like Python, TensorFlow, PyTorch, Docker, Kubernetes, and the MERN stack to build scalable and intelligent systems. I enjoy solving real-world problems using data and deploying solutions using modern DevOps practices.
 
 📌 Currently exploring advanced ML models and cloud-native architectures.
 🔧 Always building, learning, and open to collaboration!</h3>
