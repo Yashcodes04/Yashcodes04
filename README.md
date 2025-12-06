@@ -1,31 +1,109 @@
-<h1 align="center">Hi 👋, I'm Yash Gawhale</h1>
-<h3 align="center">I'm a passionate Computer Science student with hands-on experience in Machine Learning, Data Science, and Full Stack Web Development. I work with tools and technologies like Python, TensorFlow, PyTorch, Docker, Kubernetes, and the MERN stack to build scalable and intelligent systems. I enjoy solving real-world problems using data and deploying solutions using modern DevOps practices.
+<h1 align="center"> Hello Fellow < Coders/ >! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+</h1>
 
-📌 Currently exploring advanced ML models and cloud-native architectures.
-🔧 Always building, learning, and open to collaboration!</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/aaSPJ0P3HkGd6Z2kpFOwX7wI325Qldpv2wDjjNqq710/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vR2ZTWC11N1ZH/TTRBQUFBQy9jb2Rp/bmcuZ2lm.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashcodes04&label=Profile%20views&color=0e75b6&style=flat" alt="yashcodes04" /> </p>
-
-
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **yashgawhale004@gmail.com**
-
-- 📄 Know about my experiences [.](.)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gawhale-4277b8258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gawhale-4277b8258/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yashgawhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashgawhale" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=I'm+Yash+Gawhale;Software+Dev+%7C+AI%2FML+Practitioner;2x+Hackathon+Winner+%7C+Researcher;Learning+Graph+Networks;Always+Learning%2C+Always+Building;Let's+Build+Something+Cool!" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align='center'>
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashcodes04&show_icons=true&locale=en&layout=compact" alt="yashcodes04" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashcodes04&show_icons=true&locale=en" alt="yashcodes04" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashcodes04&" alt="yashcodes04" /></p>
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Yashcodes04&style=flat-square" alt="Profile Views" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+<br>
+
+
+I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+
+Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+
+Joined Github **7** years ago.
+
+Since then I pushed **3570**+ commits, opened **229**+ issues, submitted **603**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
+
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<!-- My Stats -->
+<details open>
+<summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
+
+<br>
+
+<!-- 🔥 GitHub Streak Stats -->
+<div align="center">
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Yashcodes04&theme=tokyonight" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Yashcodes04&theme=flag-india">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yashcodes04&theme=default" alt="GitHub Streak Stats">
+</picture>
+</div>
+
+<br>
+
+<!-- 📊 Repo & Language Summary Cards -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yashcodes04/github-stats-terminal-style/main/github_stats.svg" alt="Terminal Style GitHub Stats" />
+
+<!-- Repos per Language -->
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashcodes04&theme=tokyonight" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashcodes04&theme=flag_india">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashcodes04&theme=flag_india" alt="Repos per Language">
+</picture>
+
+<!-- Most Committed Language -->
+<picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashcodes04&theme=tokyonight" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashcodes04&theme=flag_india">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashcodes04&theme=flag_india" alt="Most Commit Language">
+</picture>
+
+</div>
+
+<br>
+
+<!-- 🐍 GitHub Contribution Snake -->
+<div align="center">
+  ## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashcodes04/Yashcodes04/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashcodes04/Yashcodes04/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Yashcodes04/Yashcodes04/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<hr>
+
+</details>
+
+
+
+
