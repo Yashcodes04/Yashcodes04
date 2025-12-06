@@ -26,19 +26,15 @@
 <br>
 
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+Final year B.Tech student (CSE, AI & ML) at PES University, specializing in scalable software and intelligent ML solutions. 🚀
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I am a results-driven technologist with a proven track record in Deep Learning (DL), Computer Vision (CV), and backend/server systems. My experience includes developing production-ready security microservices using Python and Docker, solving real-world challenges in computer vision, and significantly contributing to academic research, including publishing work on misinformation detection , Carcinoma Multi-Omics Dataset 
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+My expertise spans Deep Learning (PyTorch, TensorFlow), Data Science, robust Backend development, and Cloud-based Systems (AWS). I am currently focused on expanding my research portfolio with upcoming journal and conference publications in the fields of AI and ML.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **7** years ago.
-
-Since then I pushed **3570**+ commits, opened **229**+ issues, submitted **603**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
+Actively seeking full-time SDE, Data Science, or ML Engineer roles where I can collaborate to solve meaningful problems and drive innovation in intelligent, scalable systems. Let's connect and explore opportunities!
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
