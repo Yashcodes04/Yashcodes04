@@ -25,16 +25,34 @@
 </p>
 <br>
 
-
 Final year B.Tech student (CSE, AI & ML) at PES University, specializing in scalable software and intelligent ML solutions. 🚀
+
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
 
-I am a results-driven technologist with a proven track record in Deep Learning (DL), Computer Vision (CV), and backend/server systems. My experience includes developing production-ready security microservices using Python and Docker, solving real-world challenges in computer vision, and significantly contributing to academic research, including publishing work on misinformation detection , Carcinoma Multi-Omics Dataset 
+I am a results-driven technologist with a proven track record in **Deep Learning (DL)**, **Computer Vision (CV)**, and **backend/server systems**. My experience includes developing **production-ready security microservices** using **Python** and **Docker**, solving real-world challenges in computer vision, and significantly contributing to academic research, including publishing work on **misinformation detection** and **Carcinoma Multi-Omics Dataset**.
 
-My expertise spans Deep Learning (PyTorch, TensorFlow), Data Science, robust Backend development, and Cloud-based Systems (AWS). I am currently focused on expanding my research portfolio with upcoming journal and conference publications in the fields of AI and ML.
+My expertise spans **Deep Learning (PyTorch, TensorFlow)**, **Data Science**, robust **Backend development**, and **Cloud-based Systems (AWS)**. I am currently focused on expanding my research portfolio with upcoming journal and conference publications in the fields of AI and ML.
 
-Actively seeking full-time SDE, Data Science, or ML Engineer roles where I can collaborate to solve meaningful problems and drive innovation in intelligent, scalable systems. Let's connect and explore opportunities!
+Actively seeking full-time **SDE**, **Data Science**, or **ML Engineer** roles where I can collaborate to solve meaningful problems and drive innovation in intelligent, scalable systems. Let's connect and explore opportunities!
+
+<br>
+
+<div align="center">
+  <a href="mailto:yashgawhale004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yashgawhale.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="linkedin.com/in/yashgawhale">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/yashgawhale">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</div>
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
