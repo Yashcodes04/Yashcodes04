@@ -30,12 +30,9 @@ Final year B.Tech student (CSE, AI & ML) at PES University, specializing in scal
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </p>
+Results-driven ML engineer focused on Deep Learning and Large Language Models. Experience solving real-world problems in Computer Vision and contributing to peer-reviewed AI/ML research, including misinformation detection and multi-omics datasets. Currently interning on enterprise platforms at Schneider Electric, while expanding work in advanced ML systems and LLM research.
 
-I am a results-driven technologist with a proven track record in **Deep Learning (DL)**, **Computer Vision (CV)**, and **backend/server systems**. My experience includes developing **production-ready security microservices** using **Python** and **Docker**, solving real-world challenges in computer vision, and significantly contributing to academic research, including publishing work on **misinformation detection** and **Carcinoma Multi-Omics Dataset**.
-
-My expertise spans **Deep Learning (PyTorch, TensorFlow)**, **Data Science**, robust **Backend development**, and **Cloud-based Systems (AWS)**. I am currently focused on expanding my research portfolio with upcoming journal and conference publications in the fields of AI and ML.
-
-Actively seeking full-time **SDE**, **Data Science**, or **ML Engineer** roles where I can collaborate to solve meaningful problems and drive innovation in intelligent, scalable systems. Let's connect and explore opportunities!
+Actively seeking full-time **Data Science**, or **ML Engineer** roles where I can collaborate to solve meaningful problems and drive innovation in intelligent, scalable systems. Let's connect and explore opportunities!
 
 <br>
 
